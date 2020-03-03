@@ -4,7 +4,7 @@
 	<groupId>com.client.exercise.tennis</groupId>
 	<artifactId>tennis-game-kata</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Tennis Game Kata</name>
+	<name>Tennis Game Katas</name>
 	<description>Java implementation of Tennis Game using TDD.</description>
 	<dependencies>
 		<dependency>
